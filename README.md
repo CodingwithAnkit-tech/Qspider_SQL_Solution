@@ -26,7 +26,7 @@ It includes classroom assignments, practice questions, tests, interview-focused 
 
 
 
-> *Note: You can organize files as per QSpiders modules.*
+
 
 ---
 
