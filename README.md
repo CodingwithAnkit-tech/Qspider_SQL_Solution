@@ -22,7 +22,6 @@ It includes classroom assignments, practice questions, tests, interview-focused 
 - 🔹 Practice Questions from QSpiders  
 - 🔹 Interview-oriented SQL Problems  
 
----
 
 
 
