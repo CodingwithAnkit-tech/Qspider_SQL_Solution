@@ -23,7 +23,6 @@ It includes classroom assignments, practice questions, tests, interview-focused 
 - 🔹 Interview-oriented SQL Problems  
 
 
-
 ---
 
 ## 🚀 **How to Use**
